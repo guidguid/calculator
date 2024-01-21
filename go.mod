@@ -1,3 +1,3 @@
-module github.com/guidguid/calculator v0.1.0
+module github.com/guidguid/calculator
 
 go 1.21.6
